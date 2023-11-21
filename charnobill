@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+<title>Chernobyl </title>
+</head>
+<body>
+
+<h1>O melhor lugar para ganhar tumores</h1>
+<img src="pic_trulli.jpg" alt="Italian Trulli">
+<h1>morte</h1>
+<h2>radiação</h2>
+<h3>alucinações</h3>
+<h4>tumores pesados</h4>
+<h5>vizinhos amigáveis</h5>
+<h6>gatos</h6>
+<h2>Ainda não convecido?????????? cheque agora os nossos ligares para visitar em Chernobyl</h2>
+<a href="lugares.html">AQUI</a>
+<footer>
+     <p>Entre em contato:<br>
+     <a href="morterapida@gmail.com">morterapida@gmail.com</a></p>
+   </footer>
+   
+   </body>
+   </html>
+
+// em outra pagina html
+  <!DOCTYPE html>
+<html>
+    <head> 
+<title>Chernobyl </title>
+</head>
+<body>
+
+<h1>O melhor lugar para ganhar tumores</h1>
+<img src="rodagigante.jpg" alt="Italian Trulli">
+<h1>Roda digante com pessoas mortas</h1>
+
+<img src="usina.jpg" alt="Italian Trulli">
+<h1>Sinta a radiação, onde foi realizada nossa grande cidade</h1>
+
+<img src="parte.jpg" alt="Italian Trulli">
+<h1>venha ao nosso parque para brincar com os nossos doces animais</h1>
+
+<footer>
+     <p>Entre em contato:<br>
+     <a href="morterapida@gmail.com">morterapida@gmail.com</a></p>
+   </footer>
+   
+   </body>
+   </html>
