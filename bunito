@@ -1,0 +1,7 @@
+NO html:
+<link rel="stylesheet" href="chernobill.css">
+
+No css:
+h1{
+    color:green;
+}
